@@ -1,0 +1,5 @@
+import random 
+number=random. randint(1,100)attemps=0
+print("welcome to the number guessing game") 
+while true:guess=int(input("guess a number between 1 and 100:"))
+if guess > number
